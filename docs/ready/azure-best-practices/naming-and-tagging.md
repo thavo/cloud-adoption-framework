@@ -149,7 +149,8 @@ The following list provides recommended Azure resource type prefixes to use when
 | Azure Cognitive Services         | cog-        |
 | Azure Machine Learning workspace | mlw-        |
 
-### Analytics and IoT
+
+
 
 | Asset type                      | Name prefix |
 |---------------------------------|-------------|
@@ -157,6 +158,7 @@ The following list provides recommended Azure resource type prefixes to use when
 | Azure Databricks workspace      | dbw-        |
 | Azure Stream Analytics          | asa-        |
 | Azure Data Factory              | adf-        |
+| Azure Time Series Insights      | tsi-        |
 | Data Lake Store account         | dls         |
 | Data Lake Analytics account     | dla         |
 | Event hub                       | evh-        |
